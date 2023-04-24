@@ -1,0 +1,15 @@
+.mainpage_uploadIcon{
+    height: 55px;
+    width: 55px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+.mainpage_uploadimage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: -30px;
+}

@@ -1,0 +1,47 @@
+.post_container {
+    width: 615px;
+
+    border: 1px solid #dbdbdb;
+    background-color: white;
+    margin-top: 25px;
+}
+
+.post_header {
+    height: 60px;
+    border-bottom: 1px solid #dbdbdb;
+    display: flex;
+}
+
+.post_image {
+    min-width: 30px;
+    min-height: 30px;
+    margin: 10px;
+    
+}
+
+.post_username {
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+}
+.post_analytics_container{
+    display: flex;
+}
+.post_react_image{
+    max-width: 25px;
+    height: 25px;
+    margin:5px;
+}
+.post_comment{
+    margin: 10px;
+}
+.post_commentbox{
+    height: 60px;
+    width: 600px;
+    outline: none;
+    border: 1px #dbdbdb;
+    font-size: 17px;
+    padding-left: 5px;
+}
